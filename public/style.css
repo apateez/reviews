@@ -11,9 +11,9 @@ body {
 
 
 .reviews-container {
+  max-width: 65em;
   display: flex;
   flex-direction: column;
-  width: %;
   margin-left: 10em;
   margin-right: 10em;
   background-color: #FFFFFF;
